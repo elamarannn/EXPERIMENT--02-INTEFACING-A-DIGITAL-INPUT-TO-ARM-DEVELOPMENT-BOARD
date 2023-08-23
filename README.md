@@ -120,9 +120,9 @@ static void MX_GPIO_Init(void)
 
 ## Output  :
 # LED IDLE :
-![OUTPUT](./pcmexp2.jpeg)
+![OUTPUT](./pcmexp2.jpg)
 # LED PUSHBUTTON :
-![OUTPUT](./pcmexp21.jpeg)
+![OUTPUT](./pcmexp21.jpg)
 
  
  
