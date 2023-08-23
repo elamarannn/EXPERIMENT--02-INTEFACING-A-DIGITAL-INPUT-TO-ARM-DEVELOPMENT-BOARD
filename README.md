@@ -52,6 +52,8 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 ## STM 32 CUBE PROGRAM :
 ```
+Developed By : Elamaran S E
+Register No. : 212222230036
 #include "main.h"
 #include "stdbool.h"
 bool buttonstatus;
@@ -117,7 +119,9 @@ static void MX_GPIO_Init(void)
 
 
 ## Output  :
+# LED IDLE :
 ![OUTPUT](./pcmexp2.jpeg)
+# LED PUSHBUTTON :
 ![OUTPUT](./pcmexp21.jpeg)
 
  
